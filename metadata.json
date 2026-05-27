@@ -1,0 +1,10 @@
+{
+  "name": "CBNU & CJU University Portal",
+  "description": "Interactive, bilingual portal for Chungbuk National University & Cheongju University with responsive desktop/mobile view emulation, admissions mega-menu, fully validated counseling forms, and custom search overlays.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
